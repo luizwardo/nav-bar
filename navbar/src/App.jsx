@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <body>
+      <div id='principal'>
         <header>
           <nav>
             <a className="logo" href="/">NAVBAR</a>
@@ -31,7 +31,7 @@ function App() {
           </nav>
         </header>
         <main></main>
-      </body>
+      </div>
     </>
   );
 }
