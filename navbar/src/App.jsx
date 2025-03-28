@@ -23,10 +23,10 @@ function App() {
               <div className="line3"></div>
             </div>
             <ul className={`nav-list ${isActive ? 'active' : ''}`}>
-              <li><a href="#">Início</a></li>
-              <li><a href="#">Sobre</a></li>
-              <li><a href="#">Projetos</a></li>
-              <li><a href="#">Contato</a></li>
+              <li><a href="#">Home</a></li>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Projects</a></li>
+              <li><a href="#">Contact</a></li>
             </ul>
           </nav>
         </header>
